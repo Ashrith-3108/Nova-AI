@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+pymupdf
+speechrecognition
+requests
+aiohttp
+deep-translator
+langdetect
+apscheduler
+gtts
+pygame
